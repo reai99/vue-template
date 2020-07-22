@@ -1,4 +1,4 @@
-# shopadmin
+# vue-template
 
 ## Project setup
 ```
